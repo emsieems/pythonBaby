@@ -18,3 +18,7 @@ def evaluate_cost(x_,y_,params):
         tempcost += (y_[i] - (params[0] * x_[i,0]))
         return tempcost / float(100)
 
+#third function
+def evaluate_firstExpense(a_,b_,c_):
+    
+
